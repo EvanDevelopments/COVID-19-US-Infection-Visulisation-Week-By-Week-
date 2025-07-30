@@ -1,8 +1,3 @@
-# COVID-19-US-Infection-Visulisation-Week-By-Week-
-
-Here's a draft for your GitHub README file, designed to look clean and informative with bold titles and bullet points as requested.
-
-Markdown
 
 # **COVID-19 US Confirmed Cases Time-Series Visualization**
 
