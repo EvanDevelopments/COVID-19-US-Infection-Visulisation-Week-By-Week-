@@ -15,7 +15,7 @@ The script automates the process of fetching time-series COVID-19 data, merging 
     * **Parallel Processing:** Utilizes `joblib` to generate map frames concurrently across multiple CPU cores, significantly speeding up the visualization process.
     * **In-Memory Frame Generation:** Avoids repetitive disk I/O by generating and processing image data in memory before GIF compilation.
 * **Customizable Output:** Easily adjust animation speed (frames per second), image resolution (DPI), and the time interval between frames.
-* **Dark Mode Aesthetic:** Configured with a black background for a modern and distinct visual style.
+* **Dark Mode Aesthetic Capabilities:** Configure with a black background for a modern and distinct visual style.
 * **Automated Cleanup:** Deletes temporary image files after the GIF is created to conserve storage.
 
 ## **How It Works**
